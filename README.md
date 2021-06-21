@@ -40,7 +40,7 @@ For example v1.2.4 is the first major release, with 2 releases adding little imp
 
 ## New members
 
-To start working, follow the steps explained [here](Start working.md). (NEED TO UPDATE)
+To start working, follow the steps explained [here](https://github.com/Jayvir29/P3delta_Online/blob/main/Start%20Working.md). (NEED TO UPDATE)
 
 ## Todo list
 
