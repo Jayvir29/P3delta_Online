@@ -22,7 +22,7 @@ P3$\delta$ online is based on the program and features of the executable version
 
 ## Binder
 
-[![Binder](C:\Users\rajja\Desktop\P3delta_Online\badge_logo.svg)](https://mybinder.org/v2/gh/Jayvir29/P3Delta-Online/HEAD)
+[![Binder](https://github.com/Jayvir29/P3delta_Online/blob/main/badge_logo.svg)](https://mybinder.org/v2/gh/Jayvir29/P3Delta-Online/HEAD)
 
 P3delta Online is a Binder-compatible repo with a `requirements.txt` file. Access this Binder at the following URL
 
