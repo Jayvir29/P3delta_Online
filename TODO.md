@@ -16,6 +16,8 @@
 - [ ] (Ayrton) Export to PDF function
 - [ ] Python backend library
 - [ ] Spectral envelop
+- [ ] (Jayvir) Bar progression for each mode
+- [ ] (Jayvir) Alert message
 
 ## Binder management
 
