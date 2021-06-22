@@ -5,7 +5,7 @@
 #    pip-compile
 #
 matplotlib==3.2.1
-numpy==1.18.5
+numpy==1.21.0
 scipy==1.4.1              # via seaborn
 cxroots==1.1.10
 sympy==1.7.1
