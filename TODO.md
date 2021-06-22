@@ -23,7 +23,7 @@
 
 ## Binder management
 
-- [ ] Direct access to the jupyternote book file
+- [ ] Direct access to the jupyternote book file (Not working using a custom link https://ericmjl.github.io/blog/2020/9/12/add-a-direct-binder-link-for-built-html-notebooks/)
 
 ## Overall management
 
