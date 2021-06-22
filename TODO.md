@@ -5,8 +5,8 @@
 ## GUI :
 
 - [ ] Add a dark theme switcher
-- [ ] (Jayvir) Change the slider of the step 'd' in the generic CRRID mode into a float text box
-- [ ] (Jayvir) Add a auto run method to run the jupyternote book
+- [ ] Change the slider of the step 'd' in the generic CRRID mode into a float text box
+- [ ] Add a auto run method to run the jupyternote book (Works partially)
 - [ ] Add the ability to move root's points on the root spectrum to locate the rightmost root
 - [ ] (Jayvir) Access to the number of iteration for time simulation
 - [ ] Change floattextbox of coefficients to one floattextbox of vector
