@@ -6,7 +6,6 @@
 
 - [ ] Add a dark theme switcher
 - [ ] (Jayvir) Change the slider of the step 'd' in the generic CRRID mode into a float text box
-- [ ] (Jayvir) Create a custom layout for the jupyternote book header (See the following URL https://towardsdatascience.com/10-practical-tips-you-need-to-know-to-personalize-jupyter-notebook-fbd202777e20)
 - [ ] (Jayvir) Add a auto run method to run the jupyternote book
 - [ ] Add the ability to move root's points on the root spectrum to locate the rightmost root
 - [ ] (Jayvir) Access to the number of iteration for time simulation
