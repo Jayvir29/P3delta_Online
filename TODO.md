@@ -10,6 +10,10 @@
 - [ ] (Jayvir) Add a auto run method to run the jupyternote book
 - [ ] Add the ability to move root's points on the root spectrum to locate the rightmost root
 - [ ] (Jayvir) Access to the number of iteration for time simulation
+- [ ] Change floattextbox of coefficients to one floattextbox of vector
+- [ ] Add the possibility the change the number of iteration
+- [ ] Add optinal s0 and tau limits for admissibility plot
+- [ ] Add possibility to enter value higher/lower value than tau and s0 limits
 
 ## Implementation/Backend
 
