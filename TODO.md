@@ -16,9 +16,6 @@
 
 ## Overall management
 
-- [ ] Regular quality checks
-- [ ] Regular checks with each team member to insure that everything is going well
-
 ## Documents
 
 - [ ] Create a user guide
