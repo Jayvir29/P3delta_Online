@@ -4,7 +4,6 @@
 
 ## GUI :
 
-- [ ] Change the slider of the step 'd' in the generic CRRID mode into a float text box
 - [ ] (Jayvir) Access to the number of iteration for time simulation
 - [ ] Add optinal s0 and tau limits for admissibility plot
 - [ ] Add possibility to enter value higher/lower value than tau and s0 limits
