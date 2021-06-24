@@ -5,7 +5,6 @@
 ## GUI :
 
 - [ ] Add optinal s0 and tau limits for admissibility plot
-- [ ] Add possibility to enter value higher/lower value than tau and s0 limits
 
 ## Implementation/Backend
 
