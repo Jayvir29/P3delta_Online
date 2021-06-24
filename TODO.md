@@ -6,7 +6,6 @@
 
 - [ ] Add optinal s0 and tau limits for admissibility plot
 - [ ] Add possibility to enter value higher/lower value than tau and s0 limits
-- [ ] Reduce size of star of rightmost root in generic MID and Co MID + add the star to the generic CRRID 
 
 ## Implementation/Backend
 
