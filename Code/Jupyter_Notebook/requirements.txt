@@ -11,3 +11,4 @@ cxroots==1.1.10
 sympy==1.7.1
 ipywidgets==8.0.0a4
 fpdf==1.7.2
+pillow==8.3.0
