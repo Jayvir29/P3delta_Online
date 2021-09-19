@@ -22,7 +22,7 @@ P3delta online is based on the program and features of the executable version. T
 
 ## Binder
 
-[![Binder](https://github.com/Jayvir29/P3delta_Online/blob/main/badge_logo.svg)](https://mybinder.org/v2/gh/Jayvir29/P3delta_Online/HEAD?filepath=Code%2FJupyter_Notebook%2FP3delta_Online.ipynb)
+[![Binder](https://github.com/Jayvir29/P3delta_Online/blob/main/badge_logo.svg)](https://mybinder.org/v2/gh/Jayvir29/P3delta_Online/HEAD?filepath=Code%2FJupyter_Notebook%2FP3delta_Online.ipynb/tree/ipynb)
 
 P3delta Online is a Binder-compatible repo with a `requirements.txt` file. Access this Binder at the following URL
 
