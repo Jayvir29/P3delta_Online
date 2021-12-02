@@ -24,5 +24,5 @@
 
 - [ ] Add a dark theme switcher
 - [ ] Add the ability to move root's points on the root spectrum to locate the rightmost root
-- [ ] Add a auto run method to run the jupyter notebook
+- [ ] Add an auto run method to run the jupyter notebook
 - [ ] Direct access to the jupyter notebook file (Not working using a custom link https://ericmjl.github.io/blog/2020/9/12/add-a-direct-binder-link-for-built-html-notebooks/)
