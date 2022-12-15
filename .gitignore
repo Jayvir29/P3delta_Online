@@ -1,2 +1,3 @@
 Code/Jupyter_Notebook/results/*
 Code/Jupyter_Notebook/.ipynb_checkpoints
+Code/Jupyter_Notebook/__pycache__/*
