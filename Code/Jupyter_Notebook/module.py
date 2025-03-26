@@ -272,13 +272,12 @@ def explicit_euler(n, tau, acoef, bcoef, t_final, n_iter, init_type,
         bcoef = np.append(bcoef, 0)
     a1 = np.zeros((n, n))
     a1[-1, :] = -1 * bcoef
-    dt = t_final / (n_iter - 1)
-    npast = int(np.ceil(tau / dt))
-    dt = tau / npast
-    time = np.linspace(start=float(tau), stop=t_final, num=n_iter)
+    time = np.linspace(start=float(-tau), stop=t_final, num=n_iter)
+    dt = time[1] - time[0]
+    npast = (time < 0).sum()    
     sol = np.zeros((n, time.size))
-    sol[:, :(npast + 1)] = initial_solution(init_type, init_args, n,
-                                            time[:(npast + 1)])
+    sol[:, :(npast+1)] = initial_solution(init_type, init_args, n,
+                                            time[:(npast+1)])
     for i in range(npast, time.size - 1):
         sol[:, i + 1] = sol[:, i] + dt * (
                 a0.dot(sol[:, i]) + a1.dot(sol[:, i - npast]))
